@@ -1,5 +1,7 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 21-11-2026
+FAHEEM AHMED S
+26007484
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Windows Specifications of your Laptop.
@@ -39,33 +41,73 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ```
 <html>
 <head>
-<CENTER><title>Laptop Specifications</title></CENTER>
-</head>
-<body>
-
-<CENTER><h1>Windows Specifications of My Laptop</h1><BR><h2>FAHEEM AHMED S 26007484</h2></CENTER>
-<table border="1">
-<tr><td>Device name</td><td>TL15-53M-G2</td></tr>
-<tr><td>Processor</td><td>Intel(R) Core(TM) 5 210H (2.20 GHz)</td></tr>
-<tr><td>Installed RAM</td><td>16.0 GB (15.7 GB usable)</td></tr>
-<tr><td>Graphics card</td><td>Intel(R) Graphics (128 MB)</td></tr>
-<tr><td>Storage</td><td>133 GB of 477 GB used</td></tr>
-<tr><td>System type</td><td>64-bit operating system, x64-based processor</td></tr>
-<tr><td>Edition</td><td>Windows 11 Home Single Language</td></tr>
-<tr><td>Version</td><td>25H2</td></tr>
-<tr><td>Installed on</td><td>24-06-2026</td></tr>
-<tr><td>OS build</td><td>26200.9974</td></tr>
-</table>
-
-</body>
+        <title>My laptop Specificationns</title>
+    </head>
+        <body>
+            <h1 align="center">FAHEEM AHMED S</h1>
+            <h1 align="center">Ref No: 26007484</h1>
+            <table border="4" cellspacing="8" cellpadding="8" >
+                <caption>My laptop Specifications</caption>
+                <tr>
+                    <td>S.No</td>
+                    <td>Device specifications</td>
+                    <td>Device Info</td>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td>Device Name</td>
+                    <td>TL15-53M-G2</td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>Processor</td>
+                    <td>intel(R) Core(TM) 5 210H (2.20 GHz)</td>
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td>Installed RAM</td>
+                    <td>16.0 GB (15.7 GB usable)</td>
+                </tr>
+                <tr>
+                    <td>4.</td>
+                    <td>Graphics Card</td>
+                    <td>Intel(R) Graphics (128 MB)</td>
+                </tr>
+                <tr>
+                    <td>5.</td>
+                    <td>Storage</td>
+                    <td>124 GB of 477 GB used</td>
+                </tr>
+                <tr>
+                    <td>6.</td>
+                    <td>Device ID</td>
+                    <td>07D9060E-B2DD-4C66-9FF7-C4E359871E39</td>
+                </tr>
+                <tr>
+                    <td>7.</td>
+                    <td>Product ID</td>
+                    <td>00342-42954-08739-AAOEM</td>
+                </tr>
+                <tr>
+                    <td>8.</td>
+                    <td>System Type</td>
+                    <td>64-bit operating system, x64-based processor</td>
+                </tr>
+                <tr>
+                    <td>9.</td>
+                    <td>Pen and Touch Support</td>
+                    <td>No pen or touch input is available for this display</td>
+                </tr>
+            </table>
+        </body>        
 </html>
 ```
-<img width="389" height="437" alt="Screenshot 2026-11-21 125338" src="https://github.com/user-attachments/assets/c4b6131c-5027-435a-b24e-9b71c84d20f6" />
-
 
 
 ## OUTPUT:
-<img width="957" height="429" alt="Screenshot 2026-11-21 125408" src="https://github.com/user-attachments/assets/27082ede-f79d-48eb-ac38-721c998e6faf" />
+
+<img width="935" height="442" alt="Screenshot 2026-11-21 131719" src="https://github.com/user-attachments/assets/06910968-e8a8-4bfe-a8c9-f588153564fa" />
+
 
 
 
